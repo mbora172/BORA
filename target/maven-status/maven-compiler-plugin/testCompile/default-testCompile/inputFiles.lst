@@ -1,0 +1,14 @@
+/Users/bor/IdeaProjects/BORA/src/test/java/CucumberOptions/testJrunner.java
+/Users/bor/IdeaProjects/BORA/src/test/java/utils/TestCOntextSetup.java
+/Users/bor/IdeaProjects/BORA/src/test/java/utils/GenericUtils.java
+/Users/bor/IdeaProjects/BORA/src/test/java/paageObjects/OffersPage.java
+/Users/bor/IdeaProjects/BORA/src/test/java/paageObjects/LandingPage.java
+/Users/bor/IdeaProjects/BORA/src/test/java/stepDefinitions/OfferPageStepDefinition.java
+/Users/bor/IdeaProjects/BORA/src/test/java/CucumberOptions/FailedTestNGTestRunner.java
+/Users/bor/IdeaProjects/BORA/src/test/java/stepDefinitions/Hooks.java
+/Users/bor/IdeaProjects/BORA/src/test/java/CucumberOptions/TestNGTestRunner.java
+/Users/bor/IdeaProjects/BORA/src/test/java/utils/TestBase.java
+/Users/bor/IdeaProjects/BORA/src/test/java/stepDefinitions/CheckoutPageStepDefinition.java
+/Users/bor/IdeaProjects/BORA/src/test/java/stepDefinitions/LandingPageStepDefinition.java
+/Users/bor/IdeaProjects/BORA/src/test/java/paageObjects/PageObjectManager.java
+/Users/bor/IdeaProjects/BORA/src/test/java/paageObjects/CheckoutPage.java
